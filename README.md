@@ -32,8 +32,8 @@ A quiz creation and website to take multiple quizzes! we wanted a website to be 
 ## Authors
 
 * **Garrett Corbin** 
-- [Link to Portfolio Site](https://antieatingactivist.github.io/portfolio/)
-- [Link to Github](https://github.com/antieatingactivist)
+- [Link to Portfolio Site](https://platevoltage.github.io/portfolio/)
+- [Link to Github](https://github.com/platevoltage)
 - [Link to LinkedIn](https://www.linkedin.com/in/garrett-corbin-7a7777227/)
 
 * **Courtney Foster** 
